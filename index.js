@@ -1,4 +1,4 @@
-const first = require("./first");
+const first = require("./src/first");
 
 module.exports = {
     first,
