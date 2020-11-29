@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [UNRELEASED]
 (nothing yet)
 
+## [1.1.0] - 2020-11-29
+### Added
+- `waitFor` method
+
 ## [1.0.0] - 2020-05-30
 ### Changed
 - ESM-first code
