@@ -1,6 +1,6 @@
 # Depracated
 
-See: https://github.com/dzek69/bottom-line
+See: https://github.com/dzek69/bottom-line (`seq` and `waitFor`)
 
 ## useful-promises
 
